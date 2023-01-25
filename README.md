@@ -1,7 +1,7 @@
 
 # Page da atualização do Pokémon
 
-Uma página feita com o untito de reaplicar os conhecimentos adquiridos durante o projeto "Do zero ao Programador contratado" realizado pela Dev em Dobro.
+Uma página feita com o intuito de aplicar os conhecimentos adquiridos durante o projeto "Do zero ao Programador contratado" realizado pela Dev em Dobro.
 
 
 ## Referência
